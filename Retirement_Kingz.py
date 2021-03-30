@@ -1612,7 +1612,7 @@ def pilih_crack():
 		print("\r\033[1;94mCloning\033[1;94m"+o),;sys.stdout.flush();time.sleep(1)
 	print "\033[1;96mTo Stop Process Press CTRL then Z"
 	print "\033[1;91m-------------------------------------------------------------------"
-	jalan(' \033[1;95mKingz Tor Abbu N.A.M Mahfuj )
+	jalan(' \033[1;95mKingz Tor Abbu Nurul Amin Mahfuj  ')
         jalan(' \033[1;95m      Started Cloning  ')
 	print "\033[1;91m----------------------------------------"
 	

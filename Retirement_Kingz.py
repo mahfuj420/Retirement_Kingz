@@ -2,7 +2,7 @@
 #coding=utf-8
 #The Credit For This Code Goes To N.A.M Mahfuj 
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
-#Reserved2020
+#Reserved2021
 
 
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
@@ -79,7 +79,12 @@ logo = """
 \033[1;93m /    \ / _` | '_ \| |_| | | || | 
 \033[1;93m/ /\/\ \ (_| | | | |  _| |_| || | 
 \033[1;93m\/    \/\__,_|_| |_|_|  \__,_|/ | 
-\033[1;93m                            |__/ 
+\033[1;93m                            |__/
+\033[1;93m             __      __   ___ 
+\033[1;93m|__/ | |\ | / _`    /  \ |__  
+\033[1;93m|  \ | | \| \__>    \__/ |    
+                              
+
 			    
                                                
 \033[1;91m--> GITHUB :- https://github.com/TechQaiser

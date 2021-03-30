@@ -1,6 +1,6 @@
 #!/usr/bin/python2
 #coding=utf-8
-#The Credit For This Code Goes To Tech Qaiser
+#The Credit For This Code Goes To N.A.M Mahfuj 
 #If You Wanna Take Credits For This Code, Please Look Yourself Again...
 #Reserved2020
 
@@ -59,7 +59,12 @@ R='\033[1;94m'
 #Dev: mahfuj
 ##### LOGO #####
 logo = """
-
+\033[1;93m____ ____ ___ _ ____ ____ _  _ ____ _  _ ___ 
+\033[1;93m|__/ |___  |  | |__/ |___ |\/| |___ |\ |  |  
+\033[1;93m|  \ |___  |  | |  \ |___ |  | |___ | \|  |  
+\033[1;93m_  _ _ _  _ ____ ___  
+\033[1;93m|_/  | |\ | | __   /  
+\033[1;93m| \_ | | \| |__]  /__                       
 \033[1;93m,---.   .--.          ____           ,---.    ,---. 
 \033[1;93m|    \  |  |        .'  __ `.        |    \  /    | 
 \033[1;93m|  ,  \ |  |       /   '  \  \       |  ,  \/  ,  | 
